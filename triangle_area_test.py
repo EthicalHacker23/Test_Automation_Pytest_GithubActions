@@ -1,5 +1,5 @@
 import pytest
-from area import calculate_triangle_area
+from triangle_area import calculate_triangle_area
 
 
 def test_valid_area():
